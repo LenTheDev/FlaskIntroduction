@@ -1,5 +1,9 @@
 # Flask Introduction Project 
 ---
-## Building a task application to add, update, and delete tasks 
+## Flask application that adds, updates, and delete tasks From database
 -- 
-
+Project Link:  https://taskflaskapp300.herokuapp.com/
+--
+![application Preview](taskFlask.gif)
+--
+E-Mail Contact: lhl7@njit.edu
