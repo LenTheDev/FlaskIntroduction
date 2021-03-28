@@ -2,7 +2,7 @@
 
 ## Flask application that adds, updates, and delete tasks from database
 
-[Live Application](https://taskflaskapp300.herokuapp.com/) - E-Mail Contact: lhl7@njit.edu
+[Live Application](https://taskflaskapp300.herokuapp.com/) - 📫 [Contact](lhl7@njit.edu)
 
 ![Application Preview](taskFlask.gif)
 
