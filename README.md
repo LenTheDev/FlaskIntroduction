@@ -4,7 +4,7 @@
 
 [Live Application](https://taskflaskapp300.herokuapp.com/) 
 
-📫 - [Contact](lhl7@njit.edu)
+📫 - lhl7@njit.edu
 
 ![Application Preview](taskFlask.gif)
 
