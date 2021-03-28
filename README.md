@@ -1,6 +1,6 @@
 # Flask Introduction Project 
 
-## Flask application that adds, updates, and delete tasks From database
+#Flask application that adds, updates, and delete tasks from database
 
 [Live Application](https://taskflaskapp300.herokuapp.com/)
 
